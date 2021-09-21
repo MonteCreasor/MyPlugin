@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.montecreasor.myplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.montecreasor.myplugin.MyBundle
 
 class MyApplicationService {
 
